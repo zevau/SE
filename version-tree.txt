@@ -1,0 +1,9 @@
+* f4f2c1c (HEAD-> bist-du-wissbegierig) Hast du Berufsausbildung hinzugefülgt
+* dff54a3 Merge branch 'hast-du-fachabitur' into bist-du-wissbegierig
+|\
+|* 90cbe50 (hast-du-fachabitur) hast du fachabitur-Frage erstellt
+*| 61a2eb9 wissbegierig-Frage hinzugefügt
+|/
+* 67f6d44 (tag: hast-du-abitur, master) erste Eingabeaufforderung hinzugefügt
+* 6c02b7e -a
+* a46b6f7 leere java-Datei Studienberatung.java erstellt
